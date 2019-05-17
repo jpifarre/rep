@@ -6,4 +6,7 @@ public class Cercle{
 		x=xx;
 		y=yy;
 	}
+	public static void main(String[] args) {
+   		Cercle();
+  	}
 }
