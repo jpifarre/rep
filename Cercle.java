@@ -9,4 +9,24 @@ public class Cercle{
 	public static void main(String[] args) {
    		Cercle();
   	}
+
+	static void setX(float xx)
+	{
+	}
+	static void setY(float xx)
+        {
+        }
+	static float  getX()
+        {
+		return x;
+        }
+	
+	static float  getX()
+        {
+                return y;
+        }
+
+
+
+>>>>>>> master
 }
